@@ -35,7 +35,7 @@ function toggleMusic() {
 
 document.addEventListener("DOMContentLoaded", () => {
     const prefix = "⠐ ";
-    const titleText = "!𝕯𝖊𝖝𝖙𝖊𝖗";
+    const titleText = "𝓧𝓪𝓭𝓪.𝓰𝓯𝔁";
     let index = 0;
     let isDeleting = false;
 
@@ -61,7 +61,7 @@ typeWriter();
 
 document.addEventListener("DOMContentLoaded", function () {
 const elements = document.querySelectorAll('.typewriter');
-const texts = ["Welcome", "Guns.lol/melino.K", "#911"];
+const texts = ["Ga kijken! Zwarte aap!", "https://guns.lol/xada.gfx", "#911"];
 const typingSpeed = 50;
 const pauseDuration = 1000;
 let currentIndex = 0;
