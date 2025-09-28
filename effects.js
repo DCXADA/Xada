@@ -61,7 +61,7 @@ typeWriter();
 
 document.addEventListener("DOMContentLoaded", function () {
 const elements = document.querySelectorAll('.typewriter');
-const texts = ["Ga kijken! Zwarte aap!", "https://guns.lol/xada.gfx", "#911"];
+const texts = ["Ga kijken! Zwarte aap!", "https://guns.lol/xada.gfx", "#Xada.gfx"];
 const typingSpeed = 50;
 const pauseDuration = 1000;
 let currentIndex = 0;
