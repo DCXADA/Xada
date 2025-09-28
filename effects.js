@@ -3,7 +3,7 @@ function copyAddress(id) {
     const title = svgElement.getAttribute('title');
 
     navigator.clipboard.writeText(title).then(() => {
-        alert('copied the discord to clipboard: 𝓧𝓪𝓭𝓪.𝓰𝓯𝔁');
+        alert('copied the discord to clipboard: Xada.gfx');
     }).catch(err => {
         console.error('Failed to copy: ', err);
     });
